@@ -6,4 +6,5 @@ int main(){
     cin>>N;
     long sum=(N*(N+1))/2;
     cout<<sum;
+    return 0;
 }
